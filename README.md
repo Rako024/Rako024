@@ -23,8 +23,3 @@
 
 - 📫 Mənimlə əlaqə saxlamaq üçün: [LinkedIn](https://www.linkedin.com/in/residbabazade)
 
-**Statistikalar:**
-
-![GitHub Statistikaları](https://github-readme-stats.vercel.app/api?username=Rako024&show_icons=true&theme=radical)
-
-![Ən çox istifadə olunan dillər](https://github-readme-stats.vercel.app/api/top-langs/?username=Rako024&layout=compact&theme=radical)
