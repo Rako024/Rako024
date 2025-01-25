@@ -22,5 +22,5 @@
 **Əlaqə:**
 
 - 📫 Mənimlə əlaqə saxlamaq üçün Linkedin: [LinkedIn](https://www.linkedin.com/in/residbabazade)
-- 📫 Mənimlə əlaqə saxlamaq üçün Email: [Email](residbabayev42@gmail.com)
+- 📫 Mənimlə əlaqə saxlamaq üçün Email: [Email](mailto:residbabayev42@gmail.com)
 
