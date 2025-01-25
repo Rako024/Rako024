@@ -1,4 +1,4 @@
-# Salam! Mənim adım Rashid Babazada 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Rashid+Babazada.;I'm+Back-End+Developer.)](https://git.io/typing-svg)
 
 **Haqqımda:**
 
