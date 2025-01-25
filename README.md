@@ -1,16 +1,22 @@
-## Hi there 👋
+# Salam! Mənim adım Rashid Babazada 👋
 
-<!--
-**Rako024/Rako024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Haqqımda:**
 
-Here are some ideas to get you started:
+- 🌱 Hal-hazırda Bakı şəhərində kompüter elmləri üzrə təhsil alıram.
+- 👨‍💻 İnsanların gündəlik həyatını asanlaşdıracaq faydalı məhsullar yaratmağa çalışıram.
+- 💬 Proqramlaşdırma dilləri və texnologiyaları haqqında suallarınız varsa, mənimlə əlaqə saxlaya bilərsiniz.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bacarıqlar:**
+
+- **Proqramlaşdırma Dilləri:** Java(Spring Framework), C#(ASP.Net Core)
+- **Alətlər və Texnologiyalar:** Git, Visual Studio, IntelliJ IDEA
+
+**Əlaqə:**
+
+- 📫 Mənimlə əlaqə saxlamaq üçün: [LinkedIn](https://www.linkedin.com/in/residbabazade)
+
+**Statistikalar:**
+
+![GitHub Statistikaları](https://github-readme-stats.vercel.app/api?username=Rako024&show_icons=true&theme=radical)
+
+![Ən çox istifadə olunan dillər](https://github-readme-stats.vercel.app/api/top-langs/?username=Rako024&layout=compact&theme=radical)
