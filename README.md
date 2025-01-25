@@ -1,5 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Rashid+Babazada.;I'm+Back-End+Developer.)](https://git.io/typing-svg)
 
+📈 Github stats
+---
+![GitHub Statistikaları](https://github-readme-stats.vercel.app/api?username=Rako024&show_icons=true&theme=radical)
+
+![Ən çox istifadə olunan dillər](https://github-readme-stats.vercel.app/api/top-langs/?username=Rako024&layout=compact&theme=radical)
+
+---
+
 **Haqqımda:**
 
 - 🌱 Hal-hazırda Bakı şəhərində kompüter elmləri üzrə təhsil alıram.
