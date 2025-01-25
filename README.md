@@ -10,7 +10,7 @@
 
 **Haqqımda:**
 
-- 🌱 Hal-hazırda Bakı şəhərində kompüter elmləri üzrə təhsil alıram.
+- 🌱 Hal-hazırda Bakı şəhərində Buyonida şirkətində Backend Developer olaraq işləyirəm.
 - 👨‍💻 İnsanların gündəlik həyatını asanlaşdıracaq faydalı məhsullar yaratmağa çalışıram.
 - 💬 Proqramlaşdırma dilləri və texnologiyaları haqqında suallarınız varsa, mənimlə əlaqə saxlaya bilərsiniz.
 
@@ -21,5 +21,6 @@
 
 **Əlaqə:**
 
-- 📫 Mənimlə əlaqə saxlamaq üçün: [LinkedIn](https://www.linkedin.com/in/residbabazade)
+- 📫 Mənimlə əlaqə saxlamaq üçün Linkedin: [LinkedIn](https://www.linkedin.com/in/residbabazade)
+- 📫 Mənimlə əlaqə saxlamaq üçün Email: [Email](residbabayev42@gmail.com)
 
